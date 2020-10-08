@@ -1,0 +1,27 @@
+{
+  "name": "mypersonalhealthapp",
+  "version": "1.0.0",
+  "description": "Health App for personal use",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JayasreeSuryadevara/MyPersonalHealthApp.git"
+  },
+  "keywords": [
+    "Health",
+    "Tracker",
+    "Food",
+    "Log",
+    "Daily",
+    "Reminder"
+  ],
+  "author": "Jaya Suryadevara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JayasreeSuryadevara/MyPersonalHealthApp/issues"
+  },
+  "homepage": "https://github.com/JayasreeSuryadevara/MyPersonalHealthApp#readme"
+}
