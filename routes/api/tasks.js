@@ -2,6 +2,6 @@
 const express = require("express");
 const router = express.Router();
 
-router.get("/tasks", (req, res) => res.json({ msg: "This is the tasks route" }));
+router.get("/list", (req, res) => res.json({ msg: "This is the tasks route" }));
 
 module.exports = router;
